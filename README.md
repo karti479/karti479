@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm kartik Singh</h1>
+Hi 👋, I'm kartik Singh
 <h3 align="center">A passionate Test Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karti479&label=Profile%20views&color=0e75b6&style=flat" alt="karti479" /> </p>
