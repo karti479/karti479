@@ -5,7 +5,7 @@ Hi 👋, I'm kartik Singh
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karti479" alt="karti479" /></a> </p>
 
-- 🔭 I’m currently working on **Thales Inhouse product which is selenium ,python ,robot framework,Kubernetes and Docker**
+- 🔭 I’m currently working on **Thales GSMA Esim Solution as a Product Owner**
 
 - 🌱 I’m currently learning **How to Automate Kubernetes hosted Application.**
 
@@ -13,7 +13,7 @@ Hi 👋, I'm kartik Singh
 
 - 📝 I regularly write articles on [https://karti479.medium.com/](https://karti479.medium.com/)
 
-- 💬 Ask me about **Selenium+Java ,Seleniu+Python,Robot Farmework,Appium and APIs**
+- 💬 Ask me about **Product Owner Agile, Scrum, Software Life Cycle , Product Stages ,Selenium+Java ,Seleniu+Python,Robot Farmework,Appium and APIs**
 
 - 📫 How to reach me **karti479@gmail.com**
 
