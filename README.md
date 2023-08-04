@@ -17,7 +17,7 @@ Hi 👋, I'm kartik Singh
 
 - 📫 How to reach me **karti479@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/karti479/Kartik_Singh_SDET_Resume/blob/master/Kartik_Singh_resume.pdf](https://github.com/karti479/Kartik_Singh_SDET_Resume/blob/master/Kartik_Singh_resume.pdf)
+- 📄 Know about my experiences [https://github.com/karti479/Kartik_Singh_SDET_Resume/blob/master/Kartik_Singh_resume.pdf]((https://github.com/karti479/Kartik_Singh_SDET_Resume/blob/master/kartik.singh.pdf))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
