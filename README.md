@@ -1,5 +1,5 @@
 Hi 👋, I'm kartik Singh
-<h3 align="center">A passionate Test Engineer from India</h3>
+<h3 align="center">A passionate Product Manager  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karti479&label=Profile%20views&color=0e75b6&style=flat" alt="karti479" /> </p>
 
@@ -13,7 +13,7 @@ Hi 👋, I'm kartik Singh
 
 - 📝 I regularly write articles on [https://karti479.medium.com/](https://karti479.medium.com/)
 
-- 💬 Ask me about **Product Owner Agile, Scrum, Software Life Cycle , Product Stages ,Selenium+Java ,Seleniu+Python,Robot Farmework,Appium and APIs**
+- 💬 Ask me about **Product Manager Product Owner Agile, Scrum, Software Life Cycle , Product Stages ,Selenium+Java ,Seleniu+Python,Robot Farmework,Appium and APIs**
 
 - 📫 How to reach me **karti479@gmail.com**
 
