@@ -5,9 +5,9 @@ Hi 👋, I'm kartik Singh
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karti479" alt="karti479" /></a> </p>
 
-- 🔭 I’m currently working on **Thales GSMA Esim Solution as a Product Owner**
+- 🔭 I’m currently working on **Thales B2B Saas and B2C Fintech ,Cloud ,Cyber Security and E-Comm products as a Product Manager /Owner**
 
-- 🌱 I’m currently learning **How to Automate Kubernetes hosted Application.**
+- 🌱 I’m currently learning **How to Build a Product like APPLE and Tesla.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karti479](https://github.com/karti479)
 
@@ -17,7 +17,6 @@ Hi 👋, I'm kartik Singh
 
 - 📫 How to reach me **karti479@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/karti479/Kartik_Singh_SDET_Resume/blob/master/Kartik_Singh_resume.pdf](https://github.com/karti479/Kartik_Singh_SDET_Resume/blob/master/kartik.singh.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
