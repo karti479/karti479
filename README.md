@@ -85,6 +85,7 @@ optimizing KPIs, and delivering products that enhance customer satisfaction.
 - **Email**: [karti479@gmail.com](mailto:karti479@gmail.com)
 - **LinkedIn**: [Kartik-product-linkedin](https://www.linkedin.com/in/Kartik-product-linkedin/)
 - **Medium**: [Medium Portfolio](https://medium.com/@Kartik-product-linkedin)
+- **Portfolio**: [Portfolio](https://kartik-singh.notion.site/Hi-I-m-Kartik-7a15bc4a48b34c358650a12646a484ed?pvs=4)
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or have any questions.
 
@@ -92,6 +93,7 @@ Thank you for visiting my profile! Feel free to reach out if you'd like to colla
 ### Blogs posts
 <!-- BLOG-POST-LIST:START --> 
 https://medium.com/@karti479
+https://kartik-singh.notion.site/0e9388625d7f44299c0055e87105ca1d?v=186fbee808ea42d893b5bf397d18bd9b&pvs=4
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
