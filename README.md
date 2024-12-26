@@ -1,5 +1,3 @@
-Hi 👋, I'm kartik Singh
-
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner (2)](https://github.com/user-attachments/assets/8368247f-626a-4804-b662-4f2c3ebafd78)
 
 <h3 align="center">A passionate Product Manager  from India</h3>
@@ -8,21 +6,92 @@ Hi 👋, I'm kartik Singh
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karti479" alt="karti479" /></a> </p>
 
-- 🔭 I’m currently working on **Thales B2B Saas and B2C Fintech ,Cloud ,Cyber Security and E-Comm products as a Product Manager /Owner**
+# Hi there, I'm KartiK Singh! 👋
 
-- 🌱 I’m currently learning **How to Build a Product like APPLE and Tesla.**
+Welcome to my GitHub profile! I'm a Senior Product Manager with over 10 years of experience in the tech industry, Result-driven Product Manager with over 5.6 years of experience in SaaS, enterprise software, and B2B solutions. Expertise in product lifecycle management, creating customer-centric solutions, and collaborating with cross-functional teams to deliver high-quality products.
+Adept at user story creation, roadmap planning, and leveraging data for actionable insights. Proven track record of driving feature adoption,
+optimizing KPIs, and delivering products that enhance customer satisfaction.
 
-- 👨‍💻 All of my projects are available at [https://github.com/karti479](https://github.com/karti479)
+## 🚀 About Me
 
-- 📝 I regularly write articles on [https://karti479.medium.com/](https://karti479.medium.com/)
+- 📍 Based in Bengaluru, India
+- 🌱 Currently focused on enhancing retail investment platforms and banking payment solutions
+- 🎓 B.Tech from UPTU (2009-13)
+- 💼 Senior Product Manager at Thales
+- 💡 Passionate about AI-driven solutions and optimizing customer experiences
 
-- 💬 Ask me about **Product Manager Product Owner Agile, Scrum, Software Life Cycle , Product Stages ,Selenium+Java ,Seleniu+Python,Robot Farmework,Appium and APIs**
+## 📊 My Own Developed Products 
 
-- 📫 How to reach me **karti479@gmail.com**
+- **[Static Kuber](https://marketplace.visualstudio.com/items?itemName=your-username.statickuber)**: Provides real-time Kubernetes manifest validation.
+- **[GapJap](https://gapjap.netlify.app/)**: Detects stalled communication and prompts you to act.
+- **[SafeWall](https://safewall.netlify.app/)**: A security tool that ensures the protection of your web applications.
+- **[Auto-HPA](https://auto-hpa.netlify.app/about/)**: Scaling of your workloads based on metrics.
+
+## 🛠️ Skills
+
+**Product Management:**
+- Product vision & strategy
+- User research & persona creation
+- User stories & roadmap creation
+- Designing wireframes & funnel optimization
+- A/B testing & data analysis
+- Competitive analysis & user research
+- Product roadmap & customer journey mapping
+- Agile (Scrum, Kanban, SAFe)
+- Sprint planning & backlog refinement
+- Go-to-market strategy & feature prioritization
+- Compliance with regulations
+- Coordination with engineering, design, marketing, and QA teams
+- Relationship building & stakeholder management
+- Presentation to CXOs
+
+**Tools:**
+- Mixpanel, Google Analytics, Mode, Amplitude, Tableau, PowerBI
+- Figma, Balsamiq, Miro, Whimsical
+- Confluence, Jira
+- Java, Python, React JS, JavaScript, SQL, SQL Server, T-SQL
+- Appium, Selenium, Robot Framework, TestNG, Pytest, WebDriver IO, Android Studio
+- AWS (Lambda, IAM, EC2), GCP (IAM, Compute, FCM, GKE)
+- Docker, Kubernetes, CI/CD, Hashicorp Vault, Rest API
+- Datadog, New Relic
+
+## 📈 My Experience
+
+**Senior Product Manager, Retail Investment | Thales (Aug 2022 – Present)**
+- Led a retail investment platform enabling banks to connect 5M+ customers with advisors.
+- Defined and executed product roadmaps for a Cloud-based SaaS, delivering a 40% increase in platform engagement.
+- Launched key features and introduced an AI-powered recommendation engine, increasing customer satisfaction (NPS: +12 points).
+- Revamped the onboarding process, improving account activation rates by 35%.
+
+**Product Manager, Banking Payment | Thales (Jul 2020 – Present)**
+- Led the global rollout of a subscription-based banking payment solution, generating $10M ARR across 15+ countries.
+- Streamlined the onboarding process, reducing onboarding time by 30% and boosting client satisfaction (NPS: +15 points).
+- Pioneered a recurring payment API feature, driving 12% YOY growth in API usage.
+
+**Associate Product Manager | 1Mg (Tata Enterprise) (Apr 2019 – Jul 2020)**
+- Achieved a 40% annual revenue growth through AI-driven teleconsultation services.
+- Conducted A/B testing that resulted in a 35% improvement in query resolution and a 40% boost in customer satisfaction.
+
+**SRE/DevOps | TELUS International (Sep 2018 – Apr 2019)**
+- Implemented CI/CD pipelines and microservices in cloud environments, increasing productivity by 25%.
+
+**Automation Test Engineer (QA) | Amdocs (May 2016 – Sep 2018)**
+- Designed and executed tests using Selenium and Python, leading to a 40% improvement in testing efficiency.
+
+**Analyst | IBM (Sep 2014 – May 2016)**
+
+## 📫 How to Reach Me
+
+- **Email**: [karti479@gmail.com](mailto:karti479@gmail.com)
+- **LinkedIn**: [Kartik-product-linkedin](https://www.linkedin.com/in/Kartik-product-linkedin/)
+- **Medium**: [Medium Portfolio](https://medium.com/@Kartik-product-linkedin)
+
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or have any questions.
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> 
+https://medium.com/@karti479
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
