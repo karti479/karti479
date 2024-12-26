@@ -93,6 +93,8 @@ Thank you for visiting my profile! Feel free to reach out if you'd like to colla
 ### Blogs posts
 <!-- BLOG-POST-LIST:START --> 
 https://medium.com/@karti479
+<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --> 
 https://kartik-singh.notion.site/0e9388625d7f44299c0055e87105ca1d?v=186fbee808ea42d893b5bf397d18bd9b&pvs=4
 <!-- BLOG-POST-LIST:END -->
 
