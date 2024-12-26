@@ -1,4 +1,7 @@
 Hi 👋, I'm kartik Singh
+
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner (2)](https://github.com/user-attachments/assets/8368247f-626a-4804-b662-4f2c3ebafd78)
+
 <h3 align="center">A passionate Product Manager  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karti479&label=Profile%20views&color=0e75b6&style=flat" alt="karti479" /> </p>
